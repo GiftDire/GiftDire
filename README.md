@@ -26,7 +26,7 @@ part of the qualification.
 
 - :seedling:Keeping up with the latest trends.
 
-- :zap: In my free time, I solve problems on Hackerank and watch youtubevideos.
+- :zap: In my free time, I solve problems on Hackerank and watch youtube videos.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
