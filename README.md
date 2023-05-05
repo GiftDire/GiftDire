@@ -24,7 +24,7 @@
 at an IT company to fulfil the requirements for the experiential learning that forms
 part of the qualification.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:Keeping up with the latest trends.
 
 - :zap: In my free time, I solve problems on Hackerank and watch youtubevideos.
 
