@@ -20,13 +20,17 @@
 ### :man_technologist: About Me :
   
   I am a software developer student at Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-  - :telescope: During the final year in 2023, the student is required to complete in-service training 
-at an IT company to fulfil the requirements for the experiential learning that forms
-part of the qualification.
+  - :telescope: One of the distinguished works done was a collaborative
+effort with fellow international students together with school
+mates (Belgium Campus ITversity), by introducing Drone that
+functions with facial recognition. In addition, also a web
+application that offers facial recognition capabilities that
+have multiple use cases.
+
 
 - :seedling:Keeping up with the latest trends.
 
-- :zap: In my free time, I solve problems on Hackerank and watch youtube videos.
+- :zap: In my free time, I solve problems on Hackerank and i have a habit of listening to tech podacst.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
