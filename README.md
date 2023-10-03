@@ -32,7 +32,7 @@ have multiple use cases.
 
 - :zap: In my free time, I solve problems on Hackerank and i have a habit of listening to tech podacst.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
+- :mailbox:Reach out to my Linkin-profile: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
