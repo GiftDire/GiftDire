@@ -27,7 +27,8 @@ functions with facial recognition. In addition, also a web
 application that offers facial recognition capabilities that
 have multiple use cases.
 
-💡: While you are reading this, I am currently out of the country working on another project. I was selected by the school to be a participant in the Global Minor IT Program.
+💡: While you are reading this, I am currently out of the country working on another project. I was selected by the school to be a participant in 
+    the Global Minor IT Program.
 
 
 - :seedling:Keeping up with the latest trends.
