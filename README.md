@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
   
-  I am a software developer student at Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+  Hey there meet Gift a software engineer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
   - :telescope: One of the distinguished works done was a collaborative
 effort with fellow international students together with school
 mates (Belgium Campus ITversity), by introducing Drone that
@@ -27,13 +27,12 @@ functions with facial recognition. In addition, also a web
 application that offers facial recognition capabilities that
 have multiple use cases.
 
-💡: While you are reading this, I am currently out of the country working on another project. I was selected by the school to be a participant in 
-    the Global Minor IT Program.
+💡:currenly futhering my studies and improving my skills  
 
 
-- :seedling:Keeping up with the latest trends.
+- :seedling:Keeping up with the latest trends .
 
-- :zap: In my free time, I solve problems on Hackerank and i have a habit of listening to tech podacst.
+- :zap: In my free time, I listen to tech podcast and work through my pending projects.
 
 - :mailbox:Reach out to my Linkin-profile: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
