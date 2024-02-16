@@ -20,12 +20,10 @@
 ### :man_technologist: About Me :
   
   Hey there meet Gift a software engineer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-  - :telescope: One of the distinguished works done was a collaborative
-effort with fellow international students together with school
-mates (Belgium Campus ITversity), by introducing Drone that
-functions with facial recognition. In addition, also a web
-application that offers facial recognition capabilities that
-have multiple use cases.
+  - :telescope:I am honored to have been selected as one of the distinguished students from my
+school to participate in the Global Minor Programme. This unique international exchange
+initiative took me on a transformative journey across four prestigious universities in
+Europe.
 
 💡:currenly futhering my studies and improving my skills  
 
