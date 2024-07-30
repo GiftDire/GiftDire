@@ -30,7 +30,7 @@ Europe.
 
 - :seedling:Keeping up with the latest trends .
 
-- :zap: In my free time, I listen to tech podcast and work through my pending projects.
+- :zap: In my free time, I listen to podcasts while working on my pending projects. It gives me the best feeling you could ever ask for in the afternoon, especially with the lights off hmmm ☺️☺️.
 
 - :mailbox:Reach out to my Linkin-profile: <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
