@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
   
-  Hey there meet Odirile Gift Dire a finanl year software Developer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+  Hey there meet Odirile Gift Dire a final year software Developer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
   - :telescope:I am honored to have been selected as one of the distinguished students from my
 school to participate in the Global Minor Programme. This unique international exchange
 initiative took me on a transformative journey across four prestigious universities in
