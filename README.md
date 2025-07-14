@@ -47,13 +47,8 @@ Hey there, I’m **Odirile “Gift” Dire**, a final-year Software Developer st
 ---
 
 ### 📌 Pinned Projects
-
-| Project                                  | Description                                                                             | Tech Highlights                          |
-|------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------|
-| [🔗 Accessible Chrome Extension](https://github.com/GiftDire/chrome-accessibility) | Browser tool for visually impaired: text-to-speech, high-contrast, shortcut support.     | JavaScript · Chrome APIs · UX/UI         |
-| [🔗 Foot-Mouse Prototype](https://github.com/GiftDire/foot-mouse)       | Hardware-interface app enabling cursor control via foot sensors.                         | C# · .NET · GPIO interfacing             |
-| [🔗 Voice Navigator](https://github.com/GiftDire/voice-navigator)       | Voice-driven app for hands-free computer navigation.                                     | Python · SpeechRecognition · PyQt        |
----
+> ⚙️ **Coming Soon – Under Construction**  
+> Scroll through my repos to explore my work!
 
 ### 📫 Get In Touch
 
