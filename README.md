@@ -3,36 +3,66 @@
 </div>
 
 <div id="badges" align="center">
-
-  
   <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
-  
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
-<h1>
-  
-  ---
-
-### :man_technologist: About Me :
-  
-  Hey there meet Odirile Gift Dire a final year software Developer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-  - :telescope:I am honored to have been selected as one of the distinguished students from my
-school to participate in the Global Minor Programme. This unique international exchange
-initiative took me on a transformative journey across four prestigious universities in
-Europe.
-
-💡:currenly futhering my studies and improving my skills  
-
-
-- :seedling:Keeping up with the latest trends .
-
-- :zap: In my free time, I listen to podcasts while working on my pending projects. It gives me the best feeling you could ever ask for in the afternoon, especially with the lights off hmmm ☺️☺️.
-
-- :mailbox:If you wanna reach out, lets connect via Linked-in : <a href="https://www.linkedin.com/in/odirile-dire-20144a239/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://github.com/GiftDire">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/Top%20Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
+<h1 align="center">
+  Hey there  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
+</h1>
+
+---
+
+### 👨‍💻 About Me
+
+Hey there, I’m **Odirile “Gift” Dire**, a final-year Software Developer student at Belgium Campus ITversity  
+🇿🇦 South Africa | 🎓 Global Minor Programme alumnus
+
+- 🎓 Selected among distinguished students for an international exchange across four European universities.  
+- 🛠️ Passionate about **accessible tech** (Chrome extensions, voice navigators, foot-mouse prototypes) and **scalable back-end** solutions in C#, Python & JavaScript.  
+- 🌱 Constantly upskilling—currently diving deeper into .NET Core APIs, Docker, and cloud deployment.  
+- 🎧 Podcast aficionado: nothing beats a good tech talk while coding in the dark.  
+- 📫 Let’s connect!  
+
+---
+
+### 🔧 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+| Project                                  | Description                                                                             | Tech Highlights                          |
+|------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------|
+| [🔗 Accessible Chrome Extension](https://github.com/GiftDire/chrome-accessibility) | Browser tool for visually impaired: text-to-speech, high-contrast, shortcut support.     | JavaScript · Chrome APIs · UX/UI         |
+| [🔗 Foot-Mouse Prototype](https://github.com/GiftDire/foot-mouse)       | Hardware-interface app enabling cursor control via foot sensors.                         | C# · .NET · GPIO interfacing             |
+| [🔗 Voice Navigator](https://github.com/GiftDire/voice-navigator)       | Voice-driven app for hands-free computer navigation.                                     | Python · SpeechRecognition · PyQt        |
+---
+
+### 📫 Get In Touch
+
+<p align="center">
+  <a href="mailto:DireOdirile95@gmail.com"><img src="https://img.shields.io/badge/Email-DireOdirile95@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/odirile-dire-20144a239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://giftdire.github.io/OdirileGiftDire.github.io/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</p>
+
+---
+
+> “Driven by accessibility and scalability—building tech that empowers every user.”  
