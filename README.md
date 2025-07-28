@@ -27,7 +27,7 @@ Hey there, I’m **Odirile “Gift” Dire**, a final-year Software Developer st
 
 - 🎓 Selected among distinguished students for an international exchange across four European universities.  
 - 🛠️ Passionate about **accessible tech** (Chrome extensions, voice navigators, foot-mouse prototypes) and **scalable back-end** solutions in C#, Python & JavaScript.  
-- 🌱 Constantly upskilling—currently diving deeper into .NET Core APIs, Docker, and cloud deployment.  
+- 🌱 Constantly upskilling—currently diving deeper into .NET, C#, Javascript and python.  
 - 🎧 Podcast aficionado: nothing beats a good tech talk while coding in the dark.  
 - 📫 Let’s connect!  
 
@@ -60,4 +60,4 @@ Hey there, I’m **Odirile “Gift” Dire**, a final-year Software Developer st
 
 ---
 
-> “Driven by accessibility and scalability—building tech that empowers every user.”  
+ 
