@@ -22,13 +22,13 @@
 
 ### 👨‍💻 About Me
 
-Hey there, I’m **Odirile “Gift” Dire**, a final-year Software Developer student at Belgium Campus ITversity  
+Hey there, I’m **Odirile Gift Dire**, a final-year Software Developer student at Belgium Campus ITversity  
 🇿🇦 South Africa | 🎓 Global Minor Programme alumnus
 
 - 🎓 Selected among distinguished students for an international exchange across four European universities.  
 - 🛠️ Passionate about **accessible tech** (Chrome extensions, voice navigators, foot-mouse prototypes) and **scalable back-end** solutions in C#, Python & JavaScript.  
 - 🌱 Constantly upskilling—currently diving deeper into .NET, C#, Javascript and python.  
-- 🎧 Podcast aficionado: nothing beats a good tech talk while coding in the dark.  
+- 🎧 Podcast aficionado: nothing beats a good tech talk while coding in the dark and listening to a podcasts my fav is Code newbie but they have not uploaded an episode in a while nevertheless its one podcast that redirected me in so many ways through out my professional journey worth listening to.  
 - 📫 Let’s connect!  
 
 ---
