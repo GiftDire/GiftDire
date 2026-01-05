@@ -22,8 +22,10 @@
 
 ### 👨‍💻 About Me
 
-Hey there, I’m **Odirile Gift Dire**, a final-year Software Developer student at Belgium Campus ITversity  
-🇿🇦 South Africa | 🎓 Global Minor Programme alumnus
+Hey there! I’m **Odirile Gift Dire**, a **Software Engineering graduate** with a passion for building real-world applications.
+
+🇿🇦 South Africa | 🎓 Belgium Campus iTversity  
+☁️ AZ-900 Certified | 🌍 Global Minor Programme alumnus  
 
 - 🎓 Selected among distinguished students for an international exchange across four European universities.  
 - 🛠️ Passionate about **accessible tech** (Chrome extensions, voice navigators, foot-mouse prototypes) and **scalable back-end** solutions in C#, Python & JavaScript.  
