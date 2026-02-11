@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I’m **Odirile Gift Dire**, a **Software Engineering graduate** with a passion for building real-world applications.
+Hey there! I’m **Odirile Gift Dire**, a **Software Developer graduate** with a passion for building real-world applications.
 
 🇿🇦 South Africa | 🎓 Belgium Campus iTversity  
 ☁️ AZ-900 Certified | 🌍 Global Minor Programme alumnus  
